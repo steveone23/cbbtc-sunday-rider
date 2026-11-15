@@ -1,6 +1,11 @@
 # cbbtc-sunday-rider
 
-An entry for the make.fun bounty "Race a BTC trading bot live for 24 hours".
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/steveone23/cbbtc-sunday-rider/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/steveone23/cbbtc-sunday-rider/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+
+
+An entry for the make.fun bounty [Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261115-0828).
 
 A long-only bot that trades Coinbase Wrapped BTC (cbBTC) against USDC, one-minute bar by bar, over
 the agent-fun/bars-replay/v1 protocol. It holds either cash or one position, opened by one of two
